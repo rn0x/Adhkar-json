@@ -184,6 +184,18 @@
 
 ```
  
+# تحميل 
+
+قم بـ إستنساخ المستودع عبر git 
+
+```bash
+
+git clone https://github.com/rn0x/Adhkar-json
+cd Adhkar-json
+
+```
+
+او اضغط هنا لتحميل المستودع  [ Download ZIP ](https://github.com/rn0x/Adhkar-json/archive/refs/heads/main.zip)
 
 # الترخيص 
 
